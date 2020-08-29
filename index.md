@@ -1,6 +1,6 @@
 
 
-![Logo](https://github.com/mrspouya/mrspouya.github.io/raw/master/pic.png)
+![Logo](https://github.com/mrspouya/mrspouya.github.io/raw/master/pic.png.png)
 
 ###معرفی
 
