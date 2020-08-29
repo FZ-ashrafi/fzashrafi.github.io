@@ -33,7 +33,7 @@
 
 کار با نرم افزارهایAutoCAD ,3ds max وتاحدودی فتوشاپ را بلدم 
 
-کار با نرم افزار های تحلیل تکنیکالی بازارسرمایه و اوراق مثلMotiveWave ,Advanced ,Meta Trader ,Dynamic Trader 
+MotiveWave ,Advanced ,Meta Trader ,Dynamic Traderکار با نرم افزار های تحلیل تکنیکالی بازارسرمایه و اوراق مثل 
 ###تجارب کاری
 
 ---
@@ -72,11 +72,10 @@
     
 ###لینک پروفایل Quera
 
----
 
    +  https://quera.ir/profile/FZ-ashrafi
  
- 
+--- 
  
  ### ارزیابی رزومه
 
