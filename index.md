@@ -32,7 +32,7 @@
 ---
 
 +  و تا حدودی فتوشاپ را بلدم AutoCAD ,3ds max کاربا نرم افزارهای  
-+  MotiveWave ,Advanced ,Meta Trader ,Dynamic Traderکار با نرم افزار های تحلیل تکنیکالی بازارسرمایه و اوراق مثل
++  MotiveWave ,Advanced ,Meta Trader ,Dynamic Traderکار با نرم افزار های تحلیل تکنیکالی بازارسرمایه
 
 ###تجارب کاری
 
@@ -81,4 +81,4 @@
 
 ---
 
-[Resume](/assessment/)
+[Resume](/assessment/FA_CV_CheckList_AR_3983 (1).pdf)
