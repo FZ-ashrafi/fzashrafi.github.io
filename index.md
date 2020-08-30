@@ -1,6 +1,6 @@
 
 
-![Logo](https://github.com/FZ-ashrafi/fzashrafi.github.io/blob/master/123.png)
+![Logo](https://github.com/FZ-ashrafi/fzashrafi.github.io/blob/master/ShowStdPic.gif)
 
 ###معرفی
 
