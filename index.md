@@ -31,8 +31,8 @@
 
 ---
 
-+ کاربا نرم افزارهای AutoCAD ,3ds max و تا حدودی فتوشاپ را بلدم 
-+ کار با نرم افزار های تحلیل تکنیکالی بازارسرمایه و اوراق مثل MotiveWave ,Advanced ,Meta Trader ,Dynamic Trader
++  و تا حدودی فتوشاپ را بلدم AutoCAD ,3ds max کاربا نرم افزارهای  
++  MotiveWave ,Advanced ,Meta Trader ,Dynamic Traderکار با نرم افزار های تحلیل تکنیکالی بازارسرمایه و اوراق مثل
 
 ###تجارب کاری
 
