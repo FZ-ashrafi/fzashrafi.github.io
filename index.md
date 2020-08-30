@@ -35,6 +35,7 @@
 
  کار با نرم افزار های تحلیل تکنیکالی بازارسرمایه و اوراق مثل 
  MotiveWave ,Advanced ,Meta Trader ,Dynamic Trader
+
 ###تجارب کاری
 
 ---
